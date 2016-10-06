@@ -1,0 +1,96 @@
+DÉPARTEMENT,EELV/Exp 2014,EELV/Insc 2014,Population,Nom Département,Région,Adhérents 2016,Adhérents en attente,Coopérateurs 2016,Inscrits primaire,Total
+67,8.56,3.51,1118009,Bas-Rhin,Alsace,91,1,23,113,228
+68,8.2,3.25,763716,Haut-Rhin,Alsace,30,,8,54,92
+24,10.24,4.86,418219,Dordogne,Aquitaine,48,2,4,34,88
+33,11.72,5.11,1542964,Gironde,Aquitaine,195,11,13,249,468
+40,8.37,3.69,405213,Landes,Aquitaine,33,,,33,66
+47,9.65,4.41,334106,Lot-et-Garonne,Aquitaine,43,,2,8,53
+64,11.45,5.06,670434,Pyrénées-Atlantiques,Aquitaine,44,1,2,50,97
+03,5.74,2.5,343680,Allier,Auvergne,41,,3,20,64
+15,5.96,2.56,146299,Cantal,Auvergne,15,,4,7,26
+43,7.49,3.13,227509,Haute-Loire,Auvergne,12,,2,23,37
+63,8.13,3.56,646537,Puy-de-Dôme,Auvergne,55,3,6,79,143
+14,9.47,4.18,693277,Calvados,Basse-Normandie,60,14,5,70,149
+50,8,3.39,500019,Manche,Basse-Normandie,15,8,3,43,69
+61,7.74,3.51,286256,Orne,Basse-Normandie,16,1,1,21,39
+21,6.75,3.01,533023,Côte-d'Or,Bourgogne,38,,,72,110
+58,5.58,2.37,212111,Nièvre,Bourgogne,40,,1,19,60
+71,5.88,2.4,555840,Saône-et-Loire,Bourgogne,34,,1,65,100
+89,5.69,2.44,340884,Yonne,Bourgogne,19,,,28,47
+22,9.52,4.37,599438,Côtes d'Armor,Bretagne,49,1,7,104,161
+29,9.4,4.09,907423,Finistère,Bretagne,82,3,10,152,247
+35,12.61,5.42,1039983,Ille-et-Vilaine,Bretagne,105,4,16,241,366
+56,9.24,4.08,747458,Morbihan,Bretagne,51,,11,109,171
+18,5.94,2.45,311768,Cher,Centre,24,,,19,43
+28,6.36,2.6,435171,Eure-et-Loir,Centre,30,,1,17,48
+36,6.21,2.6,225590,Indre,Centre,25,,1,23,49
+37,8.55,3.75,606164,Indre-et-Loire,Centre,85,3,4,75,167
+41,6.28,2.77,332775,Loir-et-Cher,Centre,23,,3,30,56
+45,7.08,3.07,670906,Loiret,Centre,117,2,3,55,177
+08,4.24,1.63,278970,Ardennes,Champagne-Ardenne,9,1,,2,12
+10,4.7,2,308085,Aube,Champagne-Ardenne,6,1,,17,24
+51,5.18,2.11,572968,Marne,Champagne-Ardenne,12,1,,34,47
+52,5.61,2.38,179638,Haute-Marne,Champagne-Ardenne,5,,1,6,12
+20,,,326898,Corse,Corse,13,,,20,33
+25,7.19,3.16,536474,Doubs,Franche-Comté,54,1,5,57,117
+39,6.95,3.14,259455,Jura,Franche-Comté,28,1,4,22,55
+70,4.95,2.29,238181,Haute-Saône,Franche-Comté,20,,3,11,34
+90,6.43,2.7,145074,Territoire-de-Belfort,Franche-Comté,10,,2,6,18
+27,7.18,3.1,599518,Eure,Haute-Normandie,23,,3,51,77
+76,7.84,3.2,1255587,Seine-Maritime,Haute-Normandie,88,,11,94,193
+75,13.77,7.07,2218536,Paris,Ile-de-France,564,24,15,1436,2039
+77,6.65,2.58,1391429,Seine-et-Marne,Ile-de-France,76,1,5,79,161
+78,7.66,3.44,1424411,Yvelines,Ile-de-France,98,2,7,215,322
+91,8.07,3.37,1279864,Essonne,Ile-de-France,112,5,6,154,277
+92,8.89,4.07,1603379,Hauts-de-Seine,Ile-de-France,183,2,6,346,537
+93,10.36,3.12,1573959,Seine-Saint-Denis,Ile-de-France,213,3,11,216,443
+94,9.68,3.82,1372018,Val-de-Marne,Ile-de-France,223,4,6,245,478
+95,7.65,2.83,1210318,Val-d'Oise,Ile-de-France,81,,,77,158
+11,9.52,4.5,370056,Aude,Languedoc-Roussillon,26,,1,32,59
+30,10.39,4.57,748509,Gard,Languedoc-Roussillon,50,,1,82,133
+34,12.62,5.59,1123990,Hérault,Languedoc-Roussillon,118,2,8,136,264
+48,12.53,6.07,76204,Lozère,Languedoc-Roussillon,7,,,6,13
+66,9.83,4.33,472033,Pyrénées-Orientales,Languedoc-Roussillon,61,,1,28,90
+19,5.88,2.83,238713,Corrèze,Limousin,28,,6,13,47
+23,6.07,2.72,119381,Creuse,Limousin,22,,2,7,31
+87,6.27,3.01,375363,Haute-Vienne,Limousin,26,,8,43,77
+54,6.18,2.55,729664,Meurthe-et-Moselle,Lorraine,41,,,65,106
+55,4.98,2.17,190550,Meuse,Lorraine,5,,,11,16
+57,5.95,2.17,1047013,Moselle,Lorraine,37,,3,61,101
+88,5.52,2.4,371792,Vosges,Lorraine,10,,,22,32
+09,11.55,5.51,153011,Ariège,Midi-Pyrénées,32,2,2,31,67
+12,16.73,8.02,278062,Aveyron,Midi-Pyrénées,12,,,20,32
+31,13.37,6.2,1335366,Haute-Garonne,Midi-Pyrénées,175,4,12,269,460
+32,10.51,5.07,191639,Gers,Midi-Pyrénées,17,,2,19,38
+46,13.65,6.79,173021,Lot,Midi-Pyrénées,16,,1,23,40
+65,9.78,4.35,228304,Hautes-Pyrénées,Midi-Pyrénées,18,,4,10,32
+81,10.97,5.18,386004,Tarn,Midi-Pyrénées,27,,,40,67
+82,9.55,4.44,255666,Tarn-et-Garonne,Midi-Pyrénées,22,,,15,37
+59,7.5,2.91,2607174,Nord,Nord-Pas-de-Calais,282,3,9,275,569
+62,5.72,2.34,1466483,Pas-de-Calais,Nord-Pas-de-Calais,147,1,5,72,225
+44,12.97,5.69,1358627,Loire-Atlantique,Pays de la Loire,274,6,16,350,646
+49,10.88,4.61,809505,Maine-et-Loire,Pays de la Loire,96,1,10,122,229
+53,8.59,3.58,307831,Mayenne,Pays de la Loire,28,,1,47,76
+72,8.88,3.62,572135,Sarthe,Pays de la Loire,66,1,7,59,133
+85,8.39,3.55,667970,Vendée,Pays de la Loire,74,,5,56,135
+02,5.48,2.3,538743,Aisne,Picardie,26,1,,26,53
+60,6.96,2.91,822858,Oise,Picardie,39,,1,38,78
+80,5.83,2.5,571595,Somme,Picardie,20,,1,34,55
+16,8.85,3.59,354586,Charente,Poitou-Charentes,38,,9,23,70
+17,9.57,4.05,639596,Charente-Maritime,Poitou-Charentes,41,1,15,64,121
+79,10.12,4.07,372586,Deux-Sèvres,Poitou-Charentes,43,2,8,47,100
+86,10.43,4.4,433682,Vienne,Poitou-Charentes,42,,14,48,104
+04,10.41,4.77,162924,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,24,,,45,69
+05,12.62,5.65,140706,Hautes-Alpes,Provence-Alpes-Côte d'Azur,18,,2,52,72
+06,6.74,2.85,1081821,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,45,,15,145,205
+13,8.12,3.27,2007684,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,178,4,23,338,543
+83,6.38,2.69,1041681,Var,Provence-Alpes-Côte d'Azur,58,1,12,212,283
+84,8.82,3.88,554619,Vaucluse,Provence-Alpes-Côte d'Azur,35,2,1,113,151
+01,8.26,3.34,634173,Ain,Rhône-Alpes,44,,6,91,141
+07,11.97,5.36,323543,Ardèche,Rhône-Alpes,29,,1,99,129
+26,14.44,6.38,501154,Drôme,Rhône-Alpes,81,,9,237,327
+38,12.26,5.08,1253614,Isère,Rhône-Alpes,187,2,27,445,661
+42,8.05,3.19,761357,Loire,Rhône-Alpes,51,,4,87,142
+69,10.46,4.41,1816373,Rhône,Rhône-Alpes,248,,19,513,780
+73,10.61,4.49,429253,Savoie,Rhône-Alpes,27,1,4,92,124
+74,10.73,4.32,791094,Haute-Savoie,Rhône-Alpes,40,2,5,91,138
