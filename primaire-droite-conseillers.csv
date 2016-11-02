@@ -1,0 +1,71 @@
+id,nom,candidat,sexe,poste,groupes
+duhamel,Pierre-Mathieu Duhamel,Alain Juppé,H,Programme,"chiracparis,juppemat,juppe16"
+leroux,Vincent Le Roux,Alain Juppé,H,Comités de soutien,"chiracelysee,juppebordeaux,juppe16"
+philippe,Edouard Philippe,Alain Juppé,H,,"juppecabeco,philippecab,juppe16"
+fort,Clémence Fort,Alain Juppé,F,Presse,"philippecab,juppe16"
+berge,Aurore Bergé,Alain Juppé,F,Réseaux sociaux,juppe16
+zuckerman,Eve Zuckerman,Alain Juppé,F,,juppe16
+boyer,Gilles Boyer,Alain Juppé,H,Directeur,"juppebordeaux,chirac2002,juppecabeco,juppecabdef,juppecaborsay,juppe16"
+hufnagel,Charles Hufnagel,Alain Juppé,H,Presse,"juppecabdef,juppecaborsay,juppe16"
+calan,Maël de Calan,Alain Juppé,H,Programme,juppe16
+albanel,Christine Albanel,Alain Juppé,F,,"chiracparis,chirac95,chiracelysee,fillongouv,juppe16"
+apparu,Benoist Apparu,Alain Juppé,H,,"darcoscab1,fillongouv,juppe16"
+calmels,Virginie Calmels,Alain Juppé,F,,juppe16
+teillet,David Teillet,Alain Juppé,H,Déplacements,"darcoscab1,darcoscab2,juppe16"
+guevenoux,Marie Guevenoux,Alain Juppé,F,Collecte de fonds,"darcoscab2,juppe16"
+gaymard,Hervé Gaymard,Alain Juppé,H,,"chirac95,juppe16"
+granddesnon,Jérome Grand d'Esnon,Bruno Le Maire,H,Directeur,"chiracparis,chiracelysee,chirac2002,blm16"
+sitzenstuhl,Charles Sitzenstuhl,Bruno Le Maire,H,Elus,blm16
+missoffe,Alain Missoffe,Bruno Le Maire,H,Collecte de fonds,blm16
+tubiana,Camille Tubiana,Bruno Le Maire,F,Parlement,"cuqcab,lemairecab,blm16"
+lecornu,Sébastien Lecornu,Bruno Le Maire,H,Directeur adjoint,"lemairecab,blm16"
+sirven,Bertrand Sirven,Bruno Le Maire,H,Communication,"villepincab,lemairecab,blm16"
+heuze,Grégoire Heuzé,Bruno Le Maire,H,,"villepincab,blm16"
+bouchery,Olivier Bouchery,Bruno Le Maire,H,Projet,blm16
+costilhes,Maxime Costilhes,Bruno Le Maire,H,Chef de cabinet,"sarkoelysee,gueantcab,blm16"
+rivaton,Robin Rivaton,Bruno Le Maire,H,Conseiller,blm16
+lucas,Dimitri Lucas,Bruno Le Maire,H,Communication,"chirac2002,sarkoelysee,blm16"
+calcoen,Nicolas Calcoen,Bruno Le Maire,H,,"woerthcab,blm16"
+guignard,Gautier Guignard,François Fillon,H,Numérique,"berracab,fillon16"
+schmid,Isabelle Schmid,François Fillon,F,Projet,"berracab,chartiercab,fillon16"
+chartier,Jérome Chartier,François Fillon,H,,"chartiercab,fillon16"
+morard,Caroline Morard,François Fillon,F,Presse,"chartiercab,fillon16"
+stefanini,Patrick Stefanini,François Fillon,H,Directeur,"chiracparis,chirac95,juppemat,chirac2002,fillon16"
+demontlaur,Arnaud de Montlaur,François Fillon,H,Collecte,fillon16
+doucerain,Caroline Doucerain,François Fillon,F,Parlement,"cuqcab,fillonmat,fillon16"
+faguer,Anne Faguer,François Fillon,F,Parlement,"fillonmat,fillon16"
+chomaudon,Eric Chomaudon,François Fillon,H,Chef de cabinet,"fillonmat,fillon16"
+mitrofanoff,Igor Mitrofanoff,François Fillon,H,,"sarkocabint,fillonmat,fillon16"
+demirdjian,Alexia Demirdjian,François Fillon,F,Communication,fillon16
+levy,Myriam Lévy,François Fillon,F,Presse,"fillonmat,image7,fillon16"
+meaux,Anne Méaux,François Fillon,F,Presse,"image7,fillon16"
+gerault,Jacques Gérault,François Fillon,H,Coordinateur,"sarkocabint,juppecabdef,fillon16"
+vuillerminaz,Romain Vuillerminaz,Jean-François Copé,H,,"giacometticab,cope16"
+cope,Nadia Copé,Jean-François Copé,F,,cope16
+tabarot,Michèle Tabarot,Jean-François Copé,F,Directrice,"cope2014,cope16"
+feydeau,Pierre de Feydeau,Jean-François Copé,H,Presse,"cope2014,cope16"
+vincendet,Alexandre Vincendet,Jean-François Copé,H,,"cope2014,cope16"
+pasquelin,Edouard Pasquelin,Jean-François Copé,H,,"copecab,cope16"
+jamin,Charles-Henri Jamin,Jean-Frédéric Poisson,H,Directeur,"pcd,poisson16"
+levavasseur,Audrey Levavasseur,Jean-Frédéric Poisson,F,Presse,"pcd,poisson16"
+harel,Marie-Laure Harel,Nathalie Kosciusko-Morizet,F,Porte-parole,"sarkocabint,sarko2007,sarkoelysee,nkm16"
+latour,Frédéric Latour,Nathalie Kosciusko-Morizet,H,,nkm16
+mano,Jean-Luc Mano,Nathalie Kosciusko-Morizet,H,Communication,"darcoscab1,nkm2014,nkm16"
+pawlik,Déborah Pawlik,Nathalie Kosciusko-Morizet,F,,"nkm2014,nkm16"
+peyrat,Jérôme Peyrat,Nathalie Kosciusko-Morizet,H,Politique,"chiracparis,chiracelysee,sarkocabint,sarko2007,sarkoelysee,nkmcab,nkm2014,nkm16"
+lasteyrie,Grégoire de Lasteyrie,Nathalie Kosciusko-Morizet,H,Directeur,"nkmcab,nkm2014,nkm16"
+longuet,Aurore Longuet,Nathalie Kosciusko-Morizet,F,,"nkmcab,sarko2012,nkm2014,nkm16"
+furon,Béatrice Furon,Nathalie Kosciusko-Morizet,F,Collecte,"sarkoelysee,nkm2014,nkm16"
+berthault,Jean-Didier Berthault,Nathalie Kosciusko-Morizet,H,International,"nkm2014,nkm16"
+laurentjoye,Olivia Laurentjoye,Nathalie Kosciusko-Morizet,F,,"nkmcab,nkm16"
+regent,Pierre Régent,Nicolas Sarkozy,H,Diplomatie,"sarkoelysee,sarkozy16"
+calandre,Axel Calandre,Nicolas Sarkozy,H,Numérique,"sarkoelysee,sarkozy16"
+georgin,Franck-Philippe Georgin,Nicolas Sarkozy,H,,"gueantcab,sarkoump2014,sarkozy16"
+wache,Véronique Waché,Nicolas Sarkozy,F,Presse,"chiracelysee,sarkoelysee,sarkoump2014,sarkozy16"
+pechenard,Frédéric Péchenard,Nicolas Sarkozy,H,,"nkm2014,sarkoump2014,sarkolr,sarkozy16"
+schahl,Eric Schahl,Nicolas Sarkozy,H,Elus,"sarkocabint,sarkolr,sarkozy16"
+proto,Sébastien Proto,Nicolas Sarkozy,H,,"woerthcab,sarko2012,sarkoump2014,sarkozy16"
+gaudin,Michel Gaudin,Nicolas Sarkozy,H,,"sarkoump2014,sarkozy16"
+anselin,Hugues Anselin,Nicolas Sarkozy,H,Déplacements,"nkm2014,sarkoump2014,sarkozy16"
+raynaud,Fabien Raynaud,Nicolas Sarkozy,H,,"sarkoelysee,sarkoump2014,sarkozy16"
+giacometti,Pierre Giacometti,Nicolas Sarkozy,H,Sondages,"sarko2007,giacometticab,sarko2012,sarkoump2014,sarkozy16"
